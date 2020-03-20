@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c591f323e17b7e6eb223761bfbba5934",
+    "content-hash": "18e9eef2b608eccce83078a8fd09c801",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -2151,16 +2151,16 @@
         },
         {
             "name": "symfony/cache",
-            "version": "v4.2.11",
+            "version": "v4.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/cache.git",
-                "reference": "2a139a2697dbe06526b5f1d53bb0d21a574ba1f7"
+                "reference": "28286385757fa08c249254541ad814a8ccaff0f7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/cache/zipball/2a139a2697dbe06526b5f1d53bb0d21a574ba1f7",
-                "reference": "2a139a2697dbe06526b5f1d53bb0d21a574ba1f7",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/28286385757fa08c249254541ad814a8ccaff0f7",
+                "reference": "28286385757fa08c249254541ad814a8ccaff0f7",
                 "shasum": ""
             },
             "require": {
@@ -2224,7 +2224,7 @@
                 "caching",
                 "psr6"
             ],
-            "time": "2019-06-28T08:22:31+00:00"
+            "time": "2019-11-11T12:44:10+00:00"
         },
         {
             "name": "symfony/config",
@@ -5131,7 +5131,7 @@
         },
         {
             "name": "symfony/var-exporter",
-            "version": "v4.4.4",
+            "version": "v4.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/var-exporter.git",
